@@ -1,0 +1,61 @@
+.clr { 
+
+    color: #ffffff;
+    
+    font-size: large;
+}
+
+.ic-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 10%;
+
+
+}
+
+body{
+    
+    background-image: url(IMG/Small-boy-on-a-boat-in-the-Meghna-River-in-Bangladesh.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    opacity:1000;
+
+    
+
+}
+h1{
+    background: black;
+    padding: 0px 10px;
+    mix-blend-mode: screen;
+
+}
+p{
+    background: rgba(255, 255, 255, 0.795);
+    mix-blend-mode: screen;
+
+}
+.flood-img{
+    opacity:100;
+}
+.col-4{
+width: 400px;
+height: 225px;
+}
+.pcard{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.fa{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+.fa-con{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+
+    
+}
